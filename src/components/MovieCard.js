@@ -10,3 +10,4 @@ function MovieCard({ id, title }) {
 }
 
 export default MovieCard;
+  
